@@ -9,6 +9,5 @@ menuIcon.forEach(function (icon) {
     this.classList.add("active");
   });
 
-  
+
 });
-console.log(menuIcon);
